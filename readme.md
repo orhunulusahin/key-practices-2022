@@ -53,7 +53,6 @@ Now, we would like you to commit these changes back to your online repository.
 - Save edited `short_presentation.md`
 - Open a command line
 - Navigate to the repository folder
-- Add your file to the staging area: `git add short_presentation.md`
 - Commit your changes with a sensible commit message (replace `<MESSAGE>`): `git commit -m "<MESSAGE>"`
 - Push your commit to the remote: `git push` (if it cannot find the remote: `git push -u origin main`)
 - Now you should have pushed your script to your fork of the repository. You can check if it worked by going to [GitHub](github.com), logging in, and going to your forked repository. The file should appear there!
