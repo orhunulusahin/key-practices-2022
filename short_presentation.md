@@ -9,9 +9,9 @@
 ## Rosemarije Weterings
 
 - Institute & Department: RU - CLS
-- Favorite food:
-- Thoughts on GIT:
- 
+- Favorite food: Pizza
+- Thoughts on GIT: Cool!
+
 ---
 
 ## Slide

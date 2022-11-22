@@ -33,7 +33,13 @@ This URL should contain both the repository name and your GitHub username, and s
 - Thoughts on GIT: Yup.
 
 ---
-## Slide
+
+## Rosemarije Weterings
+
+- Institute & Department: RU - CLS
+- Favorite food: Pizza
+- Thoughts on GIT: Cool!
+
 ---
 ## Slide
 ```
