@@ -18,6 +18,7 @@ This URL should contain both the repository name and your GitHub username, and s
 - Open a command line on your computer:
   - `Terminal` for Mac and Linux
   - `cmd` or `powershell` for Windows
+  - You can also git `GIT bash/GIT CMD`
 - Navigate to the repository folder (`cd your_path_to_folder`)
 - Type in this command (replace `<URL>` with the repository URL): `git clone <URL>`
 - There should now be a folder on your computer containing this `readme.md` file as well as a `short_presentation.md`.
