@@ -16,8 +16,7 @@ Locate the URL to your forked repository in the GitHub user interface.
 This URL should contain both the repository name and your GitHub username, and start with `https://github.com/` and end in `.git`.
 
 - Open a command line on your computer:
-  - `Terminal` for Mac
-  - `Bash` for Linux
+  - `Terminal` for Mac and Linux
   - `cmd` or `powershell` for Windows
 - Navigate to the repository folder (`cd your_path_to_folder`)
 - Type in this command (replace `<URL>` with the repository URL): `git clone <URL>`
