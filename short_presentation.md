@@ -14,4 +14,12 @@
 
 ---
 
+## Sho Akamine
+
+- Institute & Department: MPI - Psychology of Language & Multimodal Language
+- Favorite food: Sushi (what a surprise)
+- Thoughts on GIT: Life saver
+
+---
+
 ## Slide
