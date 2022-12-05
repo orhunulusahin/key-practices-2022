@@ -30,4 +30,12 @@
 
 ---
 
+# Christina Papoutsi
+
+- Institute & Department: MPI - Psychology of Language
+- Favorite food: Spaghetti
+- Thoughts on GIT: Pretty, pretty good 
+
+---
+
 ## Slide
