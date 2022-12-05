@@ -22,4 +22,12 @@
 
 ---
 
+## Yuxi Zhou
+
+- Institute & Department: MPI - Psychology of Language
+- Favorite food: Cake
+- Thoughts on GIT: Convenient
+
+---
+
 ## Slide
