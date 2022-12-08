@@ -30,11 +30,19 @@
 
 ---
 
-# Christina Papoutsi
+## Christina Papoutsi
 
 - Institute & Department: MPI - Psychology of Language
 - Favorite food: Spaghetti
 - Thoughts on GIT: Pretty, pretty good 
+
+---
+
+## Jitse Amelink
+
+- Institute & Department: MPI - Language & Genetics
+- Favorite food: Veggie burger
+- Thoughts on GIT: Best pet project so far
 
 ---
 
