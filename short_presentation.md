@@ -46,4 +46,13 @@
 
 ---
 
-## Slide
+## Michelle Suijkerbuijk
+
+- Institute & Department: RU - Centre for Language Studies
+- Favorite food: Stamppot
+- Thoughts on GIT: Still figuring it out
+
+---
+
+##Slide
+
