@@ -46,6 +46,14 @@
 
 ---
 
+## Michelle Suijkerbuijk
+
+- Institute & Department: RU - Centre for Language Studies
+- Favorite food: Stamppot
+- Thoughts on GIT: Still figuring it out
+
+---
+
 ## Chrissy Laurentzen
 
 - Institute & Department: CLS - Language Learning, Teaching & Testing
