@@ -46,4 +46,12 @@
 
 ---
 
+## Chrissy Laurentzen
+
+- Institute & Department: CLS - Language Learning, Teaching & Testing
+- Favorite food: Pizza
+- Thoughts on GIT: Difficult to wrap my head around
+
+---
+
 ## Slide
