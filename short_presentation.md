@@ -61,5 +61,11 @@
 - Thoughts on GIT: Difficult to wrap my head around
 
 ---
+## Irina Chupina
 
+- Institute & Department: DCC
+- Favorite food: Steak
+- Thoughts on GIT: Should definitely start using it!
+
+---
 ## Slide
