@@ -68,4 +68,10 @@
 - Thoughts on GIT: Should definitely start using it!
 
 ---
-## Slide
+## Veerle Wilms
+
+- Institute & Department: MPI, PoL (best department)
+- Favorite food: mashed potatoes
+- Thoughts on GIT: Cool skill but difficult
+
+---
