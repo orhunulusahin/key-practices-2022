@@ -76,6 +76,6 @@
 
 ---
 ## Sweekriti Narayanan
--Institute and Department : RU - DCC - Psycholinguistics
--Favourite food: Anything and everything cheesy and spicy
--Thoughts on GIT: a bit confusing at times
+- Institute and Department : RU - DCC - Psycholinguistics
+- Favourite food: Anything and everything cheesy and spicy
+- Thoughts on GIT: a bit confusing at times
