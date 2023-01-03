@@ -75,3 +75,11 @@
 - Thoughts on GIT: Cool skill but difficult
 
 ---
+
+## Joyce van Zwet
+
+- Institute & Department: RU, Centre for Language Studies
+- Favorite food: Pasta
+- Thoughts on GIT: Challenging. 
+
+---
