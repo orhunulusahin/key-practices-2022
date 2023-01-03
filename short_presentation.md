@@ -75,3 +75,7 @@
 - Thoughts on GIT: Cool skill but difficult
 
 ---
+## Sweekriti Narayanan
+-Institute and Department : RU - DCC - Psycholinguistics
+-Favourite food: Anything and everything cheesy and spicy
+-Thoughts on GIT: a bit confusing at times
