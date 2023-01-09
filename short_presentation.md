@@ -75,7 +75,16 @@
 - Thoughts on GIT: Cool skill but difficult
 
 ---
+## Joyce van Zwet
+
+- Institute & Department: RU, Centre for Language Studies
+- Favorite food: Pasta
+- Thoughts on GIT: Challenging. 
+
+---
 ## Sweekriti Narayanan
 - Institute and Department : RU - DCC - Psycholinguistics
 - Favourite food: Anything and everything cheesy and spicy
 - Thoughts on GIT: a bit confusing at times
+
+---
