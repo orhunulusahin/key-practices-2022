@@ -88,3 +88,9 @@
 - Thoughts on GIT: a bit confusing at times
 
 ---
+## Eleni Zimianiti
+- Institute and Department: MPI - Language Acquisition Department
+- Favourite food: Spaghetti with tomato sauce 
+- Thoughts on GIT: Useful but difficult
+
+---
